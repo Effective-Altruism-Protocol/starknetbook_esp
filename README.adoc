@@ -36,7 +36,7 @@ Dependiendo de tus metas e intereses, puedes elegir diversos caminos a traves de
 
 * Si eres un *principiante* y quieres empezar a aprender sobre Cairo y Starknet desde cero, sigue el libro completo, empezando con la *Introdución a Starknet*.
 
-* Si eres un *desarrolador experimentado* buscando sumergirte rapidamente en la la creación de contratos inteligentes escalables y descentralizados, enfocate en el el Cairo Book, particularmetne en el *capítulo 12 Contratos Inteligentes en Starknet* ((https://book.cairo-lang.org/es/ch99-00-starknet-smart-contracts.html[link])). 
+* Si eres un *desarrolador experimentado* buscando sumergirte rapidamente en la la creación de contratos inteligentes escalables y descentralizados, enfocate en el el Cairo Book, particularmetne en el  ((https://book.cairo-lang.org/es/ch99-00-starknet-smart-contracts.html[*capítulo 12 Contratos Inteligentes en Starknet*])). 
 
 * Si eres un *desarrollador fronted* queriendo integrar Starknet con frontend en Reac usando JavaScripts, dale prioridad a los subcapitulos de *starknet-js* y *starknet-react* en *Herramientas de Starknet*.
 
