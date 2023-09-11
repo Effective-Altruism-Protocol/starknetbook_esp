@@ -7,7 +7,7 @@ IMPORTANTE: El Starknet Book es un libro en progreso y su contenido evoluciona r
 
 El Starknet Book ofrece una estructura curricular diseñada para capacitar a las personas con las habilidades esenciales para el desarrollo en Starknet. Está elaborado de forma colaborativa por la comunidad de Starknet, donde cada capítulo es un paso en tu viaje hacia el dominio del ecosistema de Starknet.
 
-La base del desarrollo en Starknet radica fuertemente en comprender Cairo - el lenguaje clave para crear contratos inteligentes en Starknet. Con este din, el Starknet Book, esta  intrinsicamente vinculado con el Cairo Book, otra guía impulsada por la comunidad.  El Cairo Book ahonda en los matices de la programación en Cairo y puedes acceder a su versión en español en https://book.cairo-lang.org/es/[aquí]. 
+La base del desarrollo en Starknet radica fuertemente en comprender Cairo - el lenguaje clave para crear contratos inteligentes en Starknet. Con este din, el Starknet Book, esta  intrinsicamente vinculado con el Cairo Book, otra guía impulsada por la comunidad.  El Cairo Book ahonda en los matices de la programación en Cairo y puedes acceder a su versión en español https://book.cairo-lang.org/es/[aquí]. 
 
 Siendo mas claros: el dominio de Cairo se alcanza a traves del Cairo Book, meintras que los detalles de Starknet se revelan en el Starknet Book. Ambos recursos que aportarán gran beneficion a todo aspirante profundamente comprometido a dessarrollar en Starknet. En estas paginas descubriras información sobre las herramientas, arquitectura, abtracción de cuentas (Account Abstractions), STARKs y otras aplicaciones especificas de Starknet. 
 
