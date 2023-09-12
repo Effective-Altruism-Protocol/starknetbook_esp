@@ -1,28 +1,28 @@
 [id="introduction"]
 
-= Introduction to Starknet
+= Introducción a Starknet
 
-Welcome to the Starknet Book, a comprehensive guide to understanding and navigating the world of Starknet. This introduction provides a high-level overview of key concepts, including what Starknet is, its core philosophy, roadmap (in the next section), the organizations behind it, and the unique role of Cairo in the ecosystem. We will delve deeper into these concepts throughout the rest of the book. So whether you’re a developer, a crypto enthusiast, or a curious newcomer, you’re in the right place to start your journey with Starknet.
+Biencenido al Starknet Book, una guiá completa para navegar y comprender el mundo de Starknet. Esta instroducción provee una description general de alto nivel de conceptos clave, incluyento que es Starknet, su base filosofica, ruta (en la proxima sección), la organización detras de ella y rol unico de Cairo en el ecosistema.  Profundizaremos en los conceptos a lo largo del libro. Entonces, bien seas un desarrollador, un entusiasta cripto o apenas estas llegando, estasn en el lugar correcto para iniciar este viaje con Starknet.
 
-== What is Starknet?
+== ¿Qué es Starknet?
 
-Starknet is a permissionless network that leverages the power of zk-STARKs technology for scalability: lower costs, faster transactions. As a Layer-2 scalability solution for Ethereum, Starknet offers fast, secure, and low-cost transactions. It functions as a Validity Rollup (commonly known as a zero-knowledge Rollup) that uses cryptographic systems called STARKs to reduce computation costs.
+Starknet es una red sin permisos que aprovecha el poder la tecnologia de zk-STARKs para escalabilidad: bajos costos y transacciones mas rapidas. Como una solución de escalabilidad de capa 2 para Ethereum,   Starknet ofrece velocidad, seguridad y transacciones de bajo costo. Funciona como un Validity Rollup (comunmente conocido como Rollupo de conocimiento cero) que utiliza un sistema criptografico llamado  STARKs para reducir los costos de computación.
 
-Critical features of Starknet include:
+Las características críticas de Starknet incluyen:
 
-* Low transaction costs: Starknet’s transaction costs are significantly lower than Ethereum’s. With forthcoming upgrades and enhancements such as Volition (off-chain data availability) and the implementation of EIP 4844 on L1, these transaction costs are expected to decrease even further.
-* Developer-friendly platform: Starknet provides an environment that empowers developers to build decentralized applications using STARKs and the Cairo programming language.
-* High throughput and low latency: Starknet’s upcoming releases aim to increase the network’s throughput, reduce transaction latency, and lower transaction costs.
+* Bajo costo en transacciones: Los costos en las transacciones en Starknet son significativamente inferiores que las de Ethereum. Con proximas actualizaciones y mejoras como lo son Volition (disponibilidad de datos Off-chain) y la implementación EIP 4844 en L1, con esto se esperan que los costos de transacción se reduzcan aún mas. 
+* Plataforma amigable con los desarrolladores: Starknet provee un ambiento que empodera a los desarroladores a contruir aplicaciones descentralizadas usando STARKs y el lenguaje de programación Cairo.
+* Alto rendimiento y baja latencia: Los proximos lanzamientos de Starknet apuntan a incrementar el rendimiento de la red, reducir la latencia en las transacciones y menores costos de transaccion.
 
-=== The Starknet Philosophy: A Developer-friendly Approach
+=== La Filosogia de Staknet: Enfocada en ser Amigable para los desarrolladores (Developer-friendly).
 
-Starknet’s philosophy is centered around being developer-friendly. The network is designed with a clear focus on providing developers with a robust, secure, and powerful platform for building the future of decentralized infrastructure and applications. Fundamental principles of this approach include:
+La filosofia de Starknet esta centrada en ser amigable con los desarrolladores (Developer-friendly). La red esta diseñada con un claro enfoque en proveer los desarrolladores de una platafotma potente, robusta y segura para construir aplicaciones y el futuro de las insfraestructuras descentralizadas. Los principios fundamentales de este enfoque incluyen:
 
-* Performance: Starknet offers faster throughput, lower latency, and reduced transaction costs, thus facilitating the creation of compute-intensive applications.
-* Cairo: Starknet’s core programming language, Cairo, is constantly updated and enhanced to provide developers with the best tools for leveraging validity proofs and zk-STARKs technology.
-* Community focus: Starknet maintains active communication channels and feedback with the developer community via platforms like Telegram and Discord.
-* Creativity: Starknet aims to remove limitations and empower developers to build the future of decentralized applications. Build things that have never been built before just because of the limitations of the underlying technology. 
-* Tooling: Starknet is committed to providing a comprehensive suite of development tools, including SDKs for various languages, a testing and deployment framework inspired by Foundry (Protostar), and package managers (Scarb).
+* Rendimiento: Starknet ofrece una mayor tasa de transferencia, baja latencia y reducir los costos de transacción, facilitando la creación de aplicaciones de computo intensivo.
+* Cairo: El lenguaje de programación sobre el que esta basado Starknet, Cairo, es contantemente actualizado y mejorado para proveer a los desarrolladores con las mejores herramientas para aprovechar las pruebas de validez (validity proofs) y tecnologias zk-STARKs.
+* Enfocada en la comunidad: Starknet mantiene canales de comunicación activa y retroalmientación con la comunidad de desarrolladores a traves de plataformas como Telegram y Discord.
+* Creatividad: Starknet apunta a superar los limites y empoderar a las los desarrolladores a construir las aplicaciones descentralizadas del futuro. Desarrollar cosas que nunca antes se han podido hacer debido a las limitaciones de las tecnologias subyacentes.
+* Herramientas: Staknet esta comprometida a proveer un conjunto completo de herramientas de desarrollo, que incluyen SDKs para varios lenguajes, un framework para testint y despliegue inspirado en Foundry (Protostar) y un manejador de paquetes (Scarb).
 
 The philosophy of Starknet is materialized with its roadmap, which is discussed in the next section.
 
