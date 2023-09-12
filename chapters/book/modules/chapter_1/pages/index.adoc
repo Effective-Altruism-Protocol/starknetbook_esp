@@ -6,7 +6,7 @@ Biencenido al Starknet Book, una guiá completa para navegar y comprender el mun
 
 == ¿Qué es Starknet?
 
-Starknet es una red sin permisos que aprovecha el poder la tecnologia de zk-STARKs para escalabilidad: bajos costos y transacciones mas rapidas. Como una solución de escalabilidad de capa 2 para Ethereum,   Starknet ofrece velocidad, seguridad y transacciones de bajo costo. Funciona como un Validity Rollup (comunmente conocido como Rollupo de conocimiento cero) que utiliza un sistema criptografico llamado  STARKs para reducir los costos de computación.
+Starknet es una red sin permisos que aprovecha el poder la tecnologia de zk-STARKs para escalabilidad: bajos costos y transacciones mas rapidas. Como una solución de escalabilidad de capa 2 para Ethereum, Starknet ofrece velocidad, seguridad y transacciones de bajo costo. Funciona como un Validity Rollup (comunmente conocido como Rollupo de conocimiento cero) que utiliza un sistema criptografico llamado  STARKs para reducir los costos de computación.
 
 Las características críticas de Starknet incluyen:
 
@@ -22,17 +22,17 @@ La filosofia de Starknet esta centrada en ser amigable con los desarrolladores (
 * Cairo: El lenguaje de programación sobre el que esta basado Starknet, Cairo, es contantemente actualizado y mejorado para proveer a los desarrolladores con las mejores herramientas para aprovechar las pruebas de validez (validity proofs) y tecnologias zk-STARKs.
 * Enfocada en la comunidad: Starknet mantiene canales de comunicación activa y retroalmientación con la comunidad de desarrolladores a traves de plataformas como Telegram y Discord.
 * Creatividad: Starknet apunta a superar los limites y empoderar a las los desarrolladores a construir las aplicaciones descentralizadas del futuro. Desarrollar cosas que nunca antes se han podido hacer debido a las limitaciones de las tecnologias subyacentes.
-* Herramientas: Staknet esta comprometida a proveer un conjunto completo de herramientas de desarrollo, que incluyen SDKs para varios lenguajes, un framework para testint y despliegue inspirado en Foundry (Protostar) y un manejador de paquetes (Scarb).
+* Herramientas: Starknet esta comprometida a proveer un conjunto completo de herramientas de desarrollo, que incluyen SDKs para varios lenguajes, un framework para testint y despliegue inspirado en Foundry (Protostar) y un manejador de paquetes (Scarb).
 
-The philosophy of Starknet is materialized with its roadmap, which is discussed in the next section.
+La filosofia de Starknet esta materializada en su roadmap, el cual revisaremos en la proxima sección.
 
-== What is Cairo?
+== ¿Qué es Cairo?
 
-Cairo is a Turing-complete programming language designed for creating STARK-provable programs for general computation. As the native smart contract language for Starknet, a permissionless Validity Roll-up, Cairo plays a crucial role in enabling scalable and secure decentralized applications. During the Smart Contracts Chapter of the Book, we will explore Cairo in more detail. Several resources exist to learn about Cairo, including the https://cairo-book.github.io/[Cairo Book] and https://github.com/shramee/starklings-cairo1[Starklings].
+Cairo es un lenguaje de programación Turing completo (Turing-complete) diseñado para crear programas desmostrable con STARK para computación en general. Como lenguaje de contratos inteligentes nativo para Starknet un Roll-up de validación (Validity Roll-up), Cairo juega un papel crucial en permitir aplicaciones descentralizadas escalables y seguras. En el capitulo de contratos inteligentes de este libro, exploraremos Cairo en mas detalle. Existe gran cantidad de recursos para aprender Cairo, incluyento el https://cairo-book.github.io/es/[Cairo Book en español] y https://github.com/shramee/starklings-cairo1[Starklings].
 
-Cairo is inspired by the Rust programming language. It allows developers to write Starknet smart contracts in a safe, convenient, and familiar manner.
+Cairo es un lenguaje inspirado en Rust. Lo que permite a los desarrolladores escribir contratos inteligentes en Starnet de una manera familiar, segura y conveniente.
 
-=== Why Cairo?
+=== ¿Por qué Cairo?
 
 Starknet's scalability solution, Validity rollups, introduces a new paradigm called Provable Computation. This approach allows programs to prove their correct execution without needing to be re-run. To develop such provable programs, a specialized programming language that is both effective and easily learnable by developers is necessary.
 
